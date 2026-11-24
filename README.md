@@ -20,6 +20,14 @@ This is the public feedback and contribution-planning repository, not the game's
 
 A free browser garden with a daily note, scenery, avatar gestures and room-based encounters. Simulated visitors are labelled separately from connected players. It is an early prototype; loading speed and device compatibility need testing. No claims are made about popularity or guaranteed capacity.
 
+### Concert lab / 山间现场实验室 — 2026-11-24
+
+Follow the winding lantern path behind the Buddha, or [enter the concert lab directly](https://daydayplay.app/lab/ao/). Two distinct fan-made scenes can be switched inside the lab. Music files play locally; no commercial songs are bundled. Concert audiences are simulated, not connected players.
+
+从庭院佛像后方的灯笼山路进入，或直接打开现场实验室。新增缓弯石阶、门后舞台远景、更大的水上魔王，以及 15 位具有不同服饰的前排应援角色。可以切换两场演出、选择观看位置，也可以使用自己的本地音乐。
+
+See [release notes / 更新记录](UPDATES.md). We especially welcome real-phone testing: a desktop browser at phone dimensions is not proof of iPhone or Android performance. 源码仍未公开，共建以体验反馈、语言校对和原创提案为主。
+
 ## Contribution process
 
 1. Choose one small issue and leave a comment.
